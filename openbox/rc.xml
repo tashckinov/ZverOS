@@ -317,9 +317,9 @@
       <action name="Execute">
         <startupnotify>
           <enabled>true</enabled>
-          <name>alaritty</name>
+          <name>xfce4-terminal</name>
         </startupnotify>
-        <command>alacritty</command>
+        <command>xfce4-terminal</command>
       </action>
     </keybind>
     <keybind key="W-r">

@@ -33,4 +33,4 @@ picom &
 plank &
 
 #BAR
-/home/max/bar.sh | lemonbar -p
+#/home/max/bar.sh | lemonbar -p
